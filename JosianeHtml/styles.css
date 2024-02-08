@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(75, 69, 63);
+    font-size: 50px;
+    text-align: left;
+}
+
+p{
+    color:rgb(128, 65, 65);
+    font-size: 30px;
+}
+
+li{
+    color:brown;
+}
+
+.special {
+        color: rgb(153, 0, 255);
+        font-weight: bold;
+        font-size: 60px;
+        font-family: "Open Sans", sans-serif;
+      }
+      
+      /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
