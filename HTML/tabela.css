@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>mercado</title>
+</head>
+<body>
+    <h1>lista de compras</h1>
+    <table>
+        <tr>
+            <th>produto</th>
+            <th>quantidade</th>
+            <th>preço</th>
+            <th>desconto</th>
+            <th>total</th>
+        </tr>
+
+        <tr>
+            <td><img src="arroz.jpg" alt="arroz"><figcaption>Arroz</figcaption> </td>
+            <td>6</td>
+            <td>R$ 36.00</td>
+            <td>5%</td>
+            <td> -- </td>
+
+        </tr>
+
+        <tr>
+            <td><img src="feijao.jpg" alt="feijão"><figcaption>feijão</figcaption></td>
+            <td>2</td>
+            <td>R$ 12.00</td>
+            <td>2%</td>
+            <td>--</td>
+        </tr>
+
+        <tr>
+            <td><img src="massa de bolo.jpg" alt="massa de bolo"><figcaption>massa de bolo</figcaption></td>
+            <td>4</td>
+            <td>R$ 5.00</td>
+            <td>--</td>
+            <td>--</td>
+        </tr>
+
+
+        <tr>
+        
+        <td><img src="café.jpg" alt="café"><figcaption>café</figcaption></td>
+        <td>2</td>
+        <td>R$ 19.00</td>
+        <td>3%</td>
+        <td>--</td>
+
+        </tr>
+
+        <tr>
+            <td><img src="leite.jpg" alt="leite"><figcaption>leite</figcaption></td>
+            <td>10</td>
+            <td>R$ 4.39</td>
+            <td>6%</td>
+            <td>--</td>
+        </tr>
+
+
+    </table>
+    
+</body>
+</html>
